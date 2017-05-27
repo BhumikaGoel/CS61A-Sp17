@@ -1,0 +1,1 @@
+{"countData": {"scmquotedlstrtnnotorglst": 2, "scmquotedlstrtnnotorglst-schemequotedlist": 2}, "answerDict": {"scm> '(2 . 3)\nLOCKED_ANSWER\n": ["['(2 3)']", "['((2 3))']", "['']"]}}
